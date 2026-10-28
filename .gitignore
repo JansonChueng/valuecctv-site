@@ -1,5 +1,10 @@
 # Local scratch scripts (not part of the site)
 _seo_check.py
+_audit.py
+_*.py
+
+# Local agent workspace — NEVER publish (GitHub Pages uploads the whole repo)
+.workbuddy/
 
 # Python / editor noise
 __pycache__/
