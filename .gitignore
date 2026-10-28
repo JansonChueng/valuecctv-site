@@ -1,1 +1,10 @@
+# Local scratch scripts (not part of the site)
 _seo_check.py
+
+# Python / editor noise
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
